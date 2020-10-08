@@ -2,4 +2,4 @@ Change this for GitHub
 
 This is a change FROM GitHub
 
-Any change will to to create a conflict
+This merged version is the best.
